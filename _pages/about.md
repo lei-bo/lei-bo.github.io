@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a Machine Learning Postdoctoral Researcher at Lawrence Livermore National Laboratory.
+I am a AI Research Engineer at Seagate Technology.
 
 My research centers on deep learning, graph neural networks, generative AI, and their applications in
 scientific and engineering problems. Current projects include generative models for materials science and graph-based
